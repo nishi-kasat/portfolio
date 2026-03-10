@@ -34,11 +34,11 @@ export default function Experience() {
 
           <Item
             role="Co-Founder & Web Developer"
-            org="Cerebro"
+            org="Cerebro Corp India"
             time="Jan 2026 – Present"
             desc="Co-founded a software development startup focused on building modern websites and digital solutions. Responsible for website development, technical implementation, and delivering custom solutions for clients."
           />
-          
+
         </div>
       </div>
     </section>
