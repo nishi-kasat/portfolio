@@ -25,7 +25,7 @@ export default function Experience() {
             time="Oct 2023 – Dec 2023"
             desc="Created web content, collaborated with frontend teams, and ensured clarity, usability, and consistency across platforms."
           />
-
+#add experience item here(copy from <item to />)
           <Item
             role="Content Creator"
             org="Kasat Group of Companies"
