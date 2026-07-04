@@ -12,7 +12,7 @@ export default function Hero() {
         {/* Profile Image */}
         <div className="flex justify-center mb-6">
           <img
-            src="/profile.jpg"
+            src="/profile.jpeg"
             alt="Nishi Kasat"
             className="w-44 h-44 rounded-full object-cover border-4 border-sky-400 shadow-lg
             hover:scale-105 hover:shadow-sky-400/50 transition-all duration-300"
